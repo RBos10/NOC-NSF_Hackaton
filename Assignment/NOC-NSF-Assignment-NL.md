@@ -17,9 +17,6 @@ Het NOC\*NSF heeft je de volgende bestanden gegeven:
 - Presenteer je dashboard aan de stake holders van het NOC\*NSF.
 
 ## Vragen vanuit de stakeholders
-- Waar presteerden wij gemiddeld beter vanaf het jaar 2000. Bij de mannen of de vrouwen?
-- Op welke sport hadden wij de meeste medailles per Olympische Spelen 2012 – 2018?
-- Presteerden wij in de jaren 2004 – 2018 beter in de zomer of winterspelen?
-- Geef de rang van Nederland in vergelijking met de andere landen per Olympische Spelen
+- Geef een analyse van de prestaties van Nederland op de Olympische spelen
 - Heeft het verhogen van het budget in de betreffende sporten effect gehad?
 - Welk advies zou je het NOC\*NSF geven om te investeren?
