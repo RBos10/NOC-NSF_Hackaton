@@ -1,6 +1,6 @@
 # NOC-NSF_Hackaton
 
-Here you will find the datasets,assignments and software needed to complete this Hackaton.
+Here you will find the datasets, assignments and software needed to complete this Hackaton.
 
 ## Datasets
 The datasets can be found [here](Datasets)
