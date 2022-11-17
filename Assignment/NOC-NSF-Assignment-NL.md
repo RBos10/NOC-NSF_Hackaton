@@ -17,6 +17,6 @@ Het NOC\*NSF heeft je de volgende bestanden gegeven:
 - Presenteer je dashboard aan de stake holders van het NOC\*NSF.
 
 ## Vragen vanuit de stakeholders
-- Geef inzicht in de prestaties van Nederland op de Olympische spelen.
-- Heeft het verhogen van het budget in de betreffende sporten effect gehad?
-- Welk advies zou je het NOC\*NSF geven om te investeren?
+- Geef een inzicht in de behaalde resultaten op de Olympische Spelen.
+- Geef een inzicht in het effect van de besteedde budgetten.
+- Geef een advies over investeringen om de resultaten te verhogen (op korte en lange termijn).
