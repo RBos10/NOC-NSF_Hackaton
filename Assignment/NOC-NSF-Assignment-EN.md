@@ -1,22 +1,23 @@
 # Hackaton NOC\*NSF
 
-## Introductie
+## Introduction
 
-Je bent net begonnen bij Fortezza en je hebt een ontzettend gave opdracht binnengehaald. Het Nederlands Olympisch Comité (NOC\*NSF) heeft je gevraagd om meer inzicht te creëren in de Olympische prestaties van de Nederlandse sporters. De afgelopen jaren is er flink in een aantal sporten geïnvesteerd, echter is het niet inzichtelijk wat deze investering heeft opgeleverd. Het NOC\*NSF wilt graag om te starten beginnen met een interactief dashboard waarin ze de investering kunnen weergeven en vergelijken met de prestaties van de sporters in de betreffende jaren. Het NOC\*NSF wilt graag een data warehouse opzetten, alleen op dit moment bezitten ze enkel losse Excel-bestanden. 
+You recently started at Fortezza and you got an amazing assignment/. The Dutch Olympic Committee\*Dutch Sports Federation(NOC\*NSF) asked you to give more insight in how the Netherlands performed on the Olympics in the past couple of years. The last years there is heavily invested in some sports, but there was never any insight or information that it delivered the desired the results. To start,  NOC\*NSF would like to have an interactive dashboard where they can show their investments and compare it with the performance of the athletes in the past couple of years. Het NOC\*NSF would really like to start implementing a data warehouse, but for now they only have Excel Files.
 
-Graag willen ze gebruik maken van Power BI voor de visualisatie, omdat ze binnen Microsoft willen blijven. Het doel is niet alleen kijken naar het verleden, maar ook inzicht in welke sporten er beduidend meer geïnvesteerd moet worden om zo vooraan te komen te staan in het medailleklassement om Nederland nog meer als een sportland op de kaart te zetten.
-Het NOC\*NSF heeft je de volgende bestanden gegeven:
+NOC\*NSF had a long selection process and will use Microsoft Power BI as their main source for visualising the data. The purpose is not to only generate insight in the past performances, but also give advise on what NOC\*NSF can do in the future to get on top of the leaderboard.
 
--	‘Prestaties per atleet’ – waar data van alle prestaties van alle olympische atleten van 1900 tot 2018 instaan;
--	‘Budgetten’ – Hier staan de budgetten van een aantal sporten waar flink in is geïnvesteerd tussen 2010 en 2014;
--	‘noc_regio’ – de regio’s hoe deze in de Olympische Spelen worden genoemd.
+Het NOC\*NSF gave you the following files:
 
-## Opdracht
-- Zorg dat de bestanden worden ingeladen, zodat de analisten van het NOC\*NSF hier ook later mee aan de slag kunnen;
-- Ontwikkel een dashboard die antwoord kan geven op de vragen van de stake holders onder het kopje ‘Vragen’;
-- Presenteer je dashboard aan de stake holders van het NOC\*NSF.
+-	‘Prestaties per atleet’ – shows the data of all of the performances from all olympic athletes from 1900 to 2018;
+-	‘Budgetten’ – Here the board gave you the budget they had for the sports they invested in for 2014 to 2018;
+-	‘noc_regio’ – The mapping table for regions to countries;
 
-## Vragen vanuit de stakeholders
-- Geef een inzicht in de behaalde resultaten op de Olympische Spelen.
-- Geef een inzicht in het effect van de besteedde budgetten.
-- Geef een advies over investeringen om de resultaten te verhogen (op korte en lange termijn).
+## Assignment
+- Load the files in Power BI and create a data model, so the Data Analists can create their own reports in a later stage;
+- Develop a interactive dashboard that answers the questions the stakeholders have;
+- Present your dashboard to the stakeholders from NOC\*NSF.
+
+## Questions from the stakeholders
+- Give insight in the past performances and results on the Olympic Games;
+- Give insight in the spend budget;
+- Give advice on where to invest next to generate better results, short and long term.
